@@ -1,3 +1,16 @@
-body{
-    background-color:red
+body {
+  background-color: red;
+}
+p {
+  color: #fff;
+
+  font-family: "Cascadia Code PL";
+  font-size: 20px;
+}
+.middle {
+  color: yellow;
+  font-family: monospace;
+}
+.lead {
+  font-weight: 700;
 }
