@@ -8,9 +8,20 @@ p {
   font-size: 20px;
 }
 .middle {
-  color: yellow;
+  
   font-family: monospace;
 }
 .lead {
   font-weight: 700;
+}
+#first {
+  color: rgb(0, 0, 0);
+}
+div a{
+    text-decoration:none;
+    font-size: xx-large;
+}
+
+.new > p{
+    color:yellow;
 }
