@@ -1,12 +1,7 @@
 body {
-  background-color: red;
+  background-color: gray;
 }
-p {
-  color: #fff;
 
-  font-family: "Cascadia Code PL";
-  font-size: 20px;
-}
 .middle {
   
   font-family: monospace;
@@ -24,4 +19,8 @@ div a{
 
 .new > p{
     color:yellow;
+}
+.sign ~ div{
+  color:green;
+  font-size:34px;
 }
