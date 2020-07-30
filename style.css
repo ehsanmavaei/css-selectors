@@ -1,26 +1,10 @@
-body {
-  background-color: gray;
-}
 
-.middle {
-  
-  font-family: monospace;
+p{
+  margin-top: 400px;
+  padding: 10px;
+  font-size: 28px;
 }
-.lead {
-  font-weight: 700;
-}
-#first {
-  color: rgb(0, 0, 0);
-}
-div a{
-    text-decoration:none;
-    font-size: xx-large;
-}
-
-.new > p{
-    color:yellow;
-}
-.sign ~ div{
-  color:green;
-  font-size:34px;
+p:target{
+  color: tan;
+  border: 1px solid black;
 }
